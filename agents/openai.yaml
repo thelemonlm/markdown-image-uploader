@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Image Uploader"
+  short_description: "Upload local Markdown images to URLs"
+  default_prompt: "Use $markdown-image-uploader to upload local images referenced by this Markdown file and replace them with URLs."
